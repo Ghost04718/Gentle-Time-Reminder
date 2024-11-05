@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Gentle Time Reminder",
+    "version": "1.0",
+    "description": "A friendly time reminder that helps you stay aware of time passing",
+    "permissions": [
+        "notifications",
+        "storage",
+        "alarms"
+    ],
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/clock-16.png",
+            "32": "images/clock-32.png",
+            "128": "images/clock-128.png"
+        }
+    },
+    "icons": {
+        "16": "images/clock-16.png",
+        "32": "images/clock-32.png",
+        "128": "images/clock-128.png"
+    },
+    "author": "Adam Chen",
+    "homepage_url": "https://ghost04718.github.io/",
+    "minimum_chrome_version": "88",
+    "offline_enabled": true
+}
