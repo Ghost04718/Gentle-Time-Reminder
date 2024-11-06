@@ -1,6 +1,6 @@
 # Gentle Time Reminder
 
-Gentle Time Reminder is a friendly Chrome extension that helps you stay aware of time passing
+Gentle Time Reminder is a friendly Chrome extension that helps you stay aware of time passing. See [here](https://chromewebstore.google.com/detail/gentle-time-reminder/ohoebhfifcpnhkhoihjlnmadbmamdinj).
 
 ## Features
 
